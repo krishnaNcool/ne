@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 brach1 file
+=======
+created in branh2
+>>>>>>> branch2
